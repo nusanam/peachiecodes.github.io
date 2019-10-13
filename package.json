@@ -1,0 +1,19 @@
+{
+  "name": "peachiecodes.github.io",
+  "version": "1.0.0",
+  "description": "personal website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peachiecodes/peachiecodes.github.io.git"
+  },
+  "author": "ruth anam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peachiecodes/peachiecodes.github.io/issues"
+  },
+  "homepage": "https://github.com/peachiecodes/peachiecodes.github.io#readme"
+}
