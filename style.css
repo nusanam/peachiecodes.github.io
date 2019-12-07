@@ -2,13 +2,14 @@
 $paleBlurple: #d2ddf7; */
 
 body {
-  background-color: #0a0336;
-  color: #d2ddf7;
+  background-color: #fcc5c0;
+  color: #4e5b91;
+  /* color: #d2ddf7; */
   /* display: flex;
   align-content: center; */
   text-align: center;
-  margin-top: 20%;
-  margin-bottom: 20%;
+  margin-top:15%;
+  margin-bottom: 15%;
   /* position: absolute; */
 }
 
