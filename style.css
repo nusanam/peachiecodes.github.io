@@ -2,18 +2,26 @@
 $paleBlurple: #d2ddf7; */
 
 body {
-  background-color: #fcc5c0;
+  background-color: #c3d8d9;
   color: #4e5b91;
-  /* color: #d2ddf7; */
-  /* display: flex;
-  align-content: center; */
   text-align: center;
-  margin-top:15%;
-  margin-bottom: 15%;
-  /* position: absolute; */
+  margin-top: 10%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 h1 {
-  font-weight: 500;
+  font-weight: 100;
   font-size: 70px;
 }
+
+div {
+  width: 480px;
+  text-align: justify;
+}
+
+/* img {
+  max-width: 40px;
+  height: auto;
+} */
