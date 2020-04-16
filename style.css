@@ -1,27 +1,53 @@
-/* $blurple: #1a006e;
-$paleBlurple: #d2ddf7; */
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300&family=Montserrat&display=swap');
 
 body {
   background-color: #c3d8d9;
-  color: #4e5b91;
+  color: #556079;
   text-align: center;
   margin-top: 10%;
   display: flex;
   align-items: center;
   justify-content: center;
+  /* font-family: 'Manrope', sans-serif; */
 }
 
 h1 {
   font-weight: 100;
   font-size: 70px;
+  color: #648891;
+  font-family: 'Manrope', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
 }
 
 div {
   width: 480px;
-  text-align: justify;
+  /* text-align: justify; */
 }
 
-/* img {
-  max-width: 40px;
+@media (max-width: 480px) {
+  body div {
+    width: 60%;
+    margin: 0;
+    display: inline-block;
+    box-sizing: border-box;
+  }
+h1 {
+  font-weight: 100;
+  font-size: 8vw;
+}
+
+h3 {
+  font-size: 3.4vw;
+}
+
+img {
+  max-width: 8vw;
   height: auto;
-} */
+}
+
+}
+
+
