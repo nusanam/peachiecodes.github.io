@@ -30,7 +30,6 @@ div {
 @media (max-width: 480px) {
   body div {
     width: 60%;
-    margin: 0;
     display: inline-block;
     box-sizing: border-box;
   }
